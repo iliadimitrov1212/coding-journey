@@ -1,5 +1,5 @@
 # coding-journey
-This repository documents my progress as I learn C++, Pythong, and system administration.
+This repository documents my progress as I learn C++, Python, and system administration.
 
 ## Currently learning
 - Linux ( Ubuntu & Rocky Linux )
