@@ -19,6 +19,17 @@ The second version runs automatically using a systemd service and timer.
 - Starts automatically when `u1` boots
 - Detects when a machine becomes unreachable
 
+## Version 2.5 — Timestamped Monitoring
+
+An update to Version 2 that adds the local date, time, and time zone to each status check.
+
+Features:
+
+- Displays when each monitoring check was performed
+- Uses the virtual machine’s configured local time zone
+- Makes systemd journal results easier to track
+- Keeps the automatic service and timer from Version 2
+  
 ## Version 3 — Web Dashboard
 
 The planned third version will display machine status on a local webpage.
