@@ -1,0 +1,9 @@
+[Unit]
+Description=Check VirtualBox homelab machine status
+After=network-online.target
+
+[Service]
+Type=oneshot
+User=ilia
+WorkingDirectory=/home/ilia/homelab-monitor
+ExecStart=/usr/bin/python3 /home/ilia/homelab-monitor/monitor.py
