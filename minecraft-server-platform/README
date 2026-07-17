@@ -1,0 +1,86 @@
+# Minecraft Server Infrastructure Platform
+
+A self-hosted Minecraft server running on Ubuntu Server inside a virtualized homelab environment.
+
+The goal of this project is to learn Linux system administration, networking, automation, monitoring, and infrastructure management by deploying and maintaining a real service used by multiple players.
+
+---
+
+## Objectives
+
+- Deploy a Minecraft server on Ubuntu Server
+- Secure the server using Linux best practices
+- Automate startup with systemd
+- Create automated backups
+- Monitor server health
+- Document the entire deployment process
+- Practice Git and GitHub workflows
+
+---
+
+## Current Status
+
+🚧 In Development
+
+Project progress is tracked using GitHub Projects and GitHub Issues.
+
+---
+
+## Planned Features
+
+- Ubuntu Server virtual machine
+- SSH administration
+- Dedicated Linux service account
+- Paper Minecraft server
+- systemd service
+- Automatic startup after reboot
+- Automated backups
+- Restore testing
+- Server monitoring
+- Performance tuning
+- Documentation
+
+---
+
+## Technologies
+
+- Ubuntu Server
+- VirtualBox
+- Linux
+- Bash
+- Python
+- Git
+- GitHub
+- systemd
+- SSH
+- Paper Minecraft Server
+
+---
+
+## Architecture
+
+(To be added)
+
+---
+
+## Repository Structure
+
+(To be added as the project grows.)
+
+---
+
+## Future Improvements
+
+- Web status dashboard
+- Discord integration
+- Automatic update notifications
+- Advanced monitoring
+- Containerized deployment
+
+---
+
+## Lessons Learned
+
+This section will document important concepts and mistakes encountered throughout the project.
+
+(Currently empty.)
