@@ -1,4 +1,4 @@
-# coding-journey
+# coding
 This repository documents my progress as I learn C++, Python, and system administration.
 
 ## Currently learning
